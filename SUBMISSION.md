@@ -12,9 +12,9 @@ Deadline: Monday 19 October 2026
 
 ### Roles and positioning (1.1, 1.2)
 
-- **Primary role:** TODO
-- **Secondary role:** TODO
-- **Positioning statement:** "I am a [role] who [what you build] for [type of company]." TODO
+- **Primary role:** Product engineer
+- **Secondary role:** Software engineer
+- **Positioning statement:** I am a product engineer who builds mobile apps with payments and notifications for early-stage startups.
 - **Working hours (WAT) and time zones they overlap:** TODO
 - **Power and internet backup plan:** TODO
 - **60-second intro video (unlisted):** TODO
@@ -37,7 +37,7 @@ Deadline: Monday 19 October 2026
 
 | Item | Link |
 | --- | --- |
-| Lead tracker, view-only (100 or more leads) | TODO |
+| Lead tracker, view-only (100 or more leads) | https://docs.google.com/spreadsheets/d/1kO6fSFhDIGQmATY-FGfQ1OKUGFoXrdDPon-4BFrL7aA/edit?usp=sharing |
 | Daily log: an entry for every weekday, 7 Oct to 19 Oct | (same sheet, "Daily log" tab) |
 | Message library with reply rates | (same sheet, "Message library" tab) |
 | Weekly reviews | (same sheet, "Weekly review" tab) |
